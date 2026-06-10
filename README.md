@@ -1,6 +1,6 @@
 # Anuj_pyqt5_calculator
 #Tools Used
-# library PyQWt5
+# library PyQt5
 
 #how to make buttons in it
  by creating in a list form
